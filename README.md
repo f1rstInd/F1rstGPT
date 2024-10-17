@@ -2,9 +2,11 @@ Preview
 
 Visit F1RST AI Site
 
+[https://ai.f1rst.id](https://ai.f1rst.id)
+
 Demo Video:
 
-<iframe width="600" height="400" src="[https://www.youtube.com/embed/video-id](https://youtu.be/u6JP3LHBueg)" frameborder="0" allowfullscreen></iframe>
+[https://www.youtube.com/embed/u6JP3LHBueg?si=QUxIhbgu_yNSvwYn](https://youtu.be/u6JP3LHBueg?si=RC5DGM32VgijzmFu)
 
 
 
