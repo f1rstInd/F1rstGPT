@@ -1,8 +1,8 @@
-# <span style="color: pink;">Preview</span>
+# Preview
 
-<img src="X/images/f01.png" alt="Description of f01" width="400" />
-<img src="X/images/f02.png" alt="Description of f02" width="400" />
-<img src="X/images/f03.png" alt="Description of f03" width="400" />
+<img src="X/images/f01.png" alt="Description of f01" width="400" /> <!-- Adjust width as needed -->
+<img src="X/images/f02.png" alt="Description of f02" width="400" /> <!-- Adjust width as needed -->
+<img src="X/images/f03.png" alt="Description of f03" width="400" /> <!-- Adjust width as needed -->
 
 
 ## Visit F1RST AI Site
