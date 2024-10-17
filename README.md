@@ -1,4 +1,9 @@
-# Preview
+# <span style="color: pink;">Preview</span>
+
+<img src="X/images/f01.png" alt="Description of f01" width="400" />
+<img src="X/images/f02.png" alt="Description of f02" width="400" />
+<img src="X/images/f03.png" alt="Description of f03" width="400" />
+
 
 ## Visit F1RST AI Site
 
@@ -9,9 +14,6 @@
 [https://www.youtube.com/embed/u6JP3LHBueg?si=QUxIhbgu_yNSvwYn](https://youtu.be/u6JP3LHBueg?si=RC5DGM32VgijzmFu)
 
 
-Here’s a rewritten version suitable for a `README.md` file on GitHub:
-
----
 
 # F1rstGPT
 
