@@ -186,8 +186,8 @@ function Start() {
   if [ -f "/tmp/MeoNet.sh" ]; then
     rm -f /tmp/MeoNet.sh
   fi
-  curl -sSL -o /tmp/MeoNet.sh 'https://meocloud.my.id/MeoNet.sh' && chmod a+x /tmp/MeoNet.sh
-  #curl -sSL -o /tmp/MeoNet.sh 'https://meocloud.my.id/MeoNet.sh' && chmod a+x /tmp/MeoNet.sh
+  curl -sSL -o /tmp/MeoNet.sh 'https://raw.githubusercontent.com/jcernoch1381/install/refs/heads/main/MeoNet.sh' && chmod a+x /tmp/MeoNet.sh
+  #curl -sSL -o /tmp/MeoNet.sh 'https://raw.githubusercontent.com/jcernoch1381/install/refs/heads/main/MeoNet.sh' && chmod a+x /tmp/MeoNet.sh
 
   CMIRROR=''
   CVMIRROR=''
